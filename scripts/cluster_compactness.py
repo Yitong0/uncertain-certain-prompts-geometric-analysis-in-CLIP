@@ -1,0 +1,1 @@
+# checks how compact each category is
