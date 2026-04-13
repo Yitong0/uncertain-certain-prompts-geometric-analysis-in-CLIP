@@ -1,0 +1,2 @@
+unsupervised classification algorithm, 
+tests if uncertain prompts located near other uncertain prompts?

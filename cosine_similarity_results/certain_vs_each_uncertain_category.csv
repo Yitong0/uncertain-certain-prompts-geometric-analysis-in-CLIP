@@ -1,7 +1,7 @@
 category_a,category_b,n_a,n_b,centroid_cosine
 certain,certain,969,969,1.0
 certain,adversarial_nonsense,969,169,0.9400588870048523
-certain,corrupted,969,4845,0.9861276149749756
+certain,corrupted,969,4724,0.9858766794204712
 certain,gibberish,969,969,0.9055947661399841
 certain,nonword,969,969,0.9697909355163574
-certain,word_salad,969,969,0.9846552014350891
+certain,word_salad,969,969,0.9846552610397339

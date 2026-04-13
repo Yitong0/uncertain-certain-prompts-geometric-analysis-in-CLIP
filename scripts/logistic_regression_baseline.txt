@@ -1,0 +1,3 @@
+serves as baseline (linear)
+
+shud i also do kernel svm, n also random froest?

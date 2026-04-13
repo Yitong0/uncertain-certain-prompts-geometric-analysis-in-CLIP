@@ -1,1 +1,3 @@
-
+unsupervised clustering algoruthm, 
+partitions the data into K clusters by minimizing distance to cluster centers
+tests if uncertain prompts naturally form clusters in clip space
