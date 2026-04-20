@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
-cosine_pairwise_histograms
+cosine_similarity_results/

@@ -1,0 +1,6 @@
+Method,Avg_Silhouette,Min_Worst_Pair,Max_Best_Pair,Certain_vs_Others
+PCA-2D,0.2728,0.0043,0.6661,0.2291
+tSNE-2D_perp30,0.2169,-0.0013,0.6717,0.1354
+tSNE-2D_perp50,0.2155,-0.0011,0.7378,0.1308
+UMAP-2D_nn15_md01,0.3077,-0.0012,0.7435,0.2157
+UMAP-2D_nn30_md01,0.2706,-0.0014,0.6208,0.1903
