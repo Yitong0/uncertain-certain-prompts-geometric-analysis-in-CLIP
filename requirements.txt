@@ -3,3 +3,5 @@ transformers
 pandas
 numpy
 pyarrow
+matplotlib
+scipy
