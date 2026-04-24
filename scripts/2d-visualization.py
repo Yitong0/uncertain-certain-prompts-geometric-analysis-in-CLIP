@@ -10,7 +10,6 @@ from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 from sklearn.preprocessing import normalize
 
-# Optional: UMAP needs separate install
 try:
     import umap
     UMAP_AVAILABLE = True
